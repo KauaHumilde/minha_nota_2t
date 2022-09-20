@@ -1,2 +1,2 @@
 # minha_nota_2t
-aluno:kaua vieira de araujo -n13 turma:1J
+aluno: Kaua Vieira de Araujo - n13 turma:1J
