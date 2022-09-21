@@ -67,7 +67,7 @@ p{
 
 .caixa3 {
   position: absolute;
-  background: #86307f;
+  background: #ce3d03;
   width: 200px;
   height: 200px;
   right: 205px;
@@ -77,7 +77,7 @@ p{
    position: absolute;
    width: 25%;
    height: 45px;
-   background:#4c015f;
+   background:#fd170f;
    top: 0;
    left: 0;
 }
@@ -108,11 +108,11 @@ li a:hover {
 caixaBacate {
     position: absolute;
     top: 45px;
-    background: #7CFC00;
+    background: #d3e628;
     width: 90%;
     height: 180px;
     margin: 20px;
-    border-color: #32CD32;
+    border-color: #e6951d;
     border-width: 20px;
     border-style: dashed;
     padding: 20px;
