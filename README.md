@@ -1,2 +1,2 @@
 # minha_nota_2t
-Aluna: Giovana - N:08 - 1J
+Aluna: Kauã Vieira - N:13 - 1J
